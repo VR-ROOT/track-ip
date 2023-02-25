@@ -9,16 +9,17 @@
 
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
 
-#### > Run : `bash trackip`
-
-## Single Command :
 ```
 git clone https://github.com/VR-ROOT/track-ip.git;
 
 ```
+
+* `cd track-ip`
+
+
+## Single Command :
+
 <br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
