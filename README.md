@@ -1,5 +1,4 @@
-# ***Just use http://ip8.com***
-#
+
 
 <p align="center">
 <a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/trackip.png"></a>
