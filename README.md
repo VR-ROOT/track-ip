@@ -8,6 +8,7 @@
 ## Installation :
 
 * `apt update`
+
 * `apt install git curl -y`
 
 ```
