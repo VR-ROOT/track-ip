@@ -11,14 +11,14 @@
 * `apt install git curl -y`
 
 ```
-git clone https://github.com/VR-ROOT/track-ip.git;
+git clone https://github.com/VR-ROOT/track-ip.git
 
 ```
 
 * `cd track-ip`
 
-
-## Single Command :
+* `bash trackip`
+ 
 
 <br>
 <p align="center">
