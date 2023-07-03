@@ -24,4 +24,4 @@ git clone https://github.com/VR-ROOT/track-ip.git
 
 <br>
 
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
+<img src="https://ibb.co/NLgqH0v"/>
